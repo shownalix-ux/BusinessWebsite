@@ -1,0 +1,77 @@
+
+BusinessWebsite/
+│
+├── assets/
+├── includes/
+├── config/
+├── admin/
+├── database.sql
+├── index.php
+├── about.php
+├── services.php
+├── portfolio.php
+├── pricing.php
+├── contact.php
+├── launcher.sh
+├── start.sh
+└── README.md
+# 🏢 Business Website (PHP)
+
+A modern, responsive business website built with PHP, HTML, CSS, and JavaScript.  
+Includes multiple pages, admin-ready structure, and database integration.
+
+---
+
+## 🚀 Features
+- Responsive modern UI
+- Multi-page structure (Home, About, Services, Portfolio, Pricing, Contact)
+- PHP backend integration
+- Database support (MySQL / SQL file)
+- Clean modular code structure
+- Easy deployment on any server
+
+---
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+
+---
+
+## 📁 Project Structure
+- `assets/` → CSS, JS, images
+- `includes/` → reusable components
+- `config/` → database config
+- `admin/` → admin panel (if used)
+- `database.sql` → database schema
+- `index.php` → main entry file
+
+---
+
+## ⚙️ Installation
+
+1. Clone repository
+2. Import `database.sql` into MySQL
+3. Configure database in `config/`
+4. Run project on local server (XAMPP / LAMP / Termux)
+
+---
+
+## 📸 Screenshots
+(Add your project screenshots here)
+
+---
+
+## 👨‍💻 Author
+**Shown Alix**  
+Web Developer | PHP & Frontend Developer
+
+---
+
+## 📌 Status
+✔ Active Project  
+✔ Freelance Ready  
+✔ Production Upgradeable
